@@ -19,7 +19,9 @@ Deploy the chatbot: Deploy the chatbot to a platform such as Facebook Messenger,
 Monitor and improve the chatbot: Regularly monitor the chatbot's performance and use feedback from users to make improvements and fix any issues.
 
 https://omdena.com/blog/how-to-build-a-chatbot-using-rasa/
+
+
 https://omdena.com/blog/chatbot-for-refugees/
 
 
-
+https://www.youtube.com/watch?v=kCc8FmEb1nY&list=PLMPKZGg-SIzOyPkaefzv8Lc7q_bcifbG1
